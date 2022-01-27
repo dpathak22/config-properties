@@ -1,1 +1,1 @@
-# config-properties
+name=Deepak
